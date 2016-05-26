@@ -6,4 +6,5 @@
    * [SELECT 구문](select.md)
    * [INSERT 구문](insert.md)
    * [UPDATE 구문](update.md)
+   * DELETE 구문
 
