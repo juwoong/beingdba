@@ -5,4 +5,5 @@
    * [CREATE 구문](create.md)
    * [SELECT 구문](select.md)
    * [INSERT 구문](insert.md)
+   * UPDATE 구문
 
