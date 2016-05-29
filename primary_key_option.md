@@ -1,0 +1,2 @@
+# PRIMARY KEY 조건
+
