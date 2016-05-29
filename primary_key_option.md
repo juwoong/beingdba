@@ -4,7 +4,8 @@
 
 ```sql
 CREATE TABLE table_name (
-	column_name data_type(size) NOT NULL,
+	column_name data_type(size) PRIMARY KEY,
 	...
 )
 ```
+
