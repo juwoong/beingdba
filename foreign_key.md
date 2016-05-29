@@ -1,2 +1,3 @@
-# FOREIGN KEY
+# FOREIGN KEY 조건
+
 
