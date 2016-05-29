@@ -12,4 +12,5 @@
    * [PRIMARY KEY 조건](primary_key_option.md)
    * [AUTO_INCREMENT 조건](autoincrement_option.md)
    * FORIGEN KEY
+       * FOREIGN KEY 조건건
 
