@@ -20,8 +20,6 @@
 
 만약, NULL 값이 들어가려고 하면 다음과 같은 오류가 난다
 
-
-
 ```
 ERROR 1048 (23000): Column 'column_name' cannot be null
 ```
