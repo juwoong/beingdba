@@ -12,7 +12,10 @@ prof. table
 인 테이블의 id를 외래 키로 지정하려고 하면 다음과 같이 지정하면 된다.
 
 ```sql
-
+CREATE TABLE student (
+    _id INT(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(32) NOT NULL,
+    
 ```
 
 
