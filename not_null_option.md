@@ -1,6 +1,13 @@
 #NOT NULL 조건
 **CREATE** 구문에서, 특정 컬럼의 값에 NULL, 즉 값이 무조건 들어가야 함을 나타내는 조건. 
 
+```sql
+CREATE TABLE table_name (
+	column_name data_type(size) NOT NULL,
+	...
+)
+```
+
 ##예시
 |학번|이름|성별|생년월일|거주지|
 |:-:|:-:|:-:|:-:|:-:|
