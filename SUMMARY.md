@@ -7,6 +7,6 @@
    * [INSERT 구문](insert.md)
    * [UPDATE 구문](update.md)
    * [DELETE 구문](delete.md)
-* Database 조건
+* [Database 조건](database_option.md)
    * NOT NULL 구문
 
