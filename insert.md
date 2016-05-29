@@ -22,7 +22,7 @@ INSERT INTO table_name(column1, column2, ...) VALUES (value1, value2, ...)
 
 ```sql
 INSERT INTO student(학번, 이름, 성별, 생년월일, 거주지, 상태) VALUES ('3508', '뜨거운 감자남 
-김정욱', '남', '980523', '감자왕국', '커플'); 
+김정욱', '남', '980523', '감자왕국'); 
 ``` 
 
 테이블을 다시 조회해 보면 추가된 것을 알 수 있다.
