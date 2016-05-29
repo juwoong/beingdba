@@ -20,6 +20,8 @@ CREATE TABLE student (
     FOREIGN KEY (prof_id) REFERENCES prof (_id)
 )
 ```
+일반화하면 다음과 같다.
 
-
-우리학교 전교 1등인 동민이가 유구한 전통과 역사를 자랑하는 **창원대학교**로 진학하였다.
+```sql
+FOREIGN KEY (column_name) REFERENCES ref_table_name (ref_column_name);
+```
