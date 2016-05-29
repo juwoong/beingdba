@@ -9,4 +9,5 @@
    * [DELETE 구문](delete.md)
 * [Database 조건](database_option.md)
    * [NOT NULL 조건](not_null_option.md)
+   * PRIMARY KEY 조건
 
