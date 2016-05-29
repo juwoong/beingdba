@@ -8,4 +8,5 @@
    * [UPDATE 구문](update.md)
    * [DELETE 구문](delete.md)
 * Database 조건
+   * NOT NULL 구문
 
