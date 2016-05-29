@@ -30,5 +30,5 @@ FOREIGN KEY (column_name) REFERENCES ref_table_name (ref_column_name);
 
 ```
 #1451 - Cannot delete or update a parent row:
-a foreign key constraint fails (`test`.`emp`, CONSTRAINT `emp_ibfk_1` FOREIGN KEY (`dept_no`) REFERENCES `dept` (`dept_no`))
+a foreign key constraint fails (`test`.`student`, CONSTRAINT `emp_ibfk_1` FOREIGN KEY (`dept_no`) REFERENCES `dept` (`dept_no`))
 ```
