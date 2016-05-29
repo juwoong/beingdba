@@ -10,4 +10,5 @@
 * [Database 조건](database_option.md)
    * [NOT NULL 조건](not_null_option.md)
    * [PRIMARY KEY 조건](primary_key_option.md)
+   * AUTO_INCREMENT 구문
 
