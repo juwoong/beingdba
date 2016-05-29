@@ -34,3 +34,4 @@ INSERT INTO tast VALUES();
 |4|
 |5|
 
+따로 쓰이기보단, 
