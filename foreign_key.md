@@ -2,7 +2,7 @@
 
 다른 테이블의 **PRIMARY KEY**만 내용으로 쓸 수 있게 제한해주는 조건. 
 
-prof. table
+`prof` table
 
 |column|type|비고|
 |:-:|:-:|:-:|
@@ -15,7 +15,10 @@ prof. table
 CREATE TABLE student (
     _id INT(4) NOT NULL PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(32) NOT NULL,
+    prof_id INT(4) NOT NULL,
     
+    FOREIGN KEY (prof_id) REFERENCES prof (_id)
+)
 ```
 
 
