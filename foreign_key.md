@@ -9,7 +9,7 @@ prof. table
 |_id|INTEGER|PRIMARY KEY|
 |name|VARCHAR(32)|NOT NULL|
 
-
+인 테이블의 id를 외래 키로 지정하려고 하면 다음과 같이 지정하면 된다.
 
 ```sql
 
