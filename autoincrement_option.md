@@ -34,4 +34,5 @@ INSERT INTO tast VALUES();
 |4|
 |5|
 
-따로 쓰이기보단, 
+따로 쓰이기보단, PRIMARY KEY와 함께 쓰이며 게시판 ID를 자동 부여하는 데 쓰일 때가 많다.
+
