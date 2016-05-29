@@ -26,7 +26,9 @@ CREATE TABLE student (
 FOREIGN KEY (column_name) REFERENCES ref_table_name (ref_column_name);
 ```
 
-만약, 위의 예시처럼, 학생이 있는 상태에서 선생님의 정보를 지우려고 한다면 다음과 같은 오류가 발생한다.
+만약, 위의 예시에서 학생이 있는 상태에서 선생님의 정보를 지우려고 한다면?
+
+다음과 같은 오류가 발생한다.
 
 ```
 #1451 - Cannot delete or update a parent row:
