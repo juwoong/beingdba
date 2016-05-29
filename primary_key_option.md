@@ -22,4 +22,7 @@ CREATE TABLE table_name (
 
 만약, 같을 수 없다는 조건을 지키지 않으면 다음과 같은 에러가 난다.
 
+```
+ERROR 1062 (23000): Duplicate entry '1' for key 'PRIMARY'
+```
 
