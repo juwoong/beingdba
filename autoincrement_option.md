@@ -7,4 +7,12 @@ CREATE TABLE test (
     value int(11) not null auto_increment
 );
 ```
+인 테이블에 한줄 한줄 추가해보도록 하겠다.
 
+```sql
+INSERT INTO tast VALUES();
+```
+
+|value|
+|:-:|
+|1|
