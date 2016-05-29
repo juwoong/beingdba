@@ -9,6 +9,17 @@ CREATE TABLE table_name (
 )
 ```
 
+혹은 다음과 같이 나타낼 수 있다.
+
+```sql
+CREATE TABLE table_name (
+    column_name data_type(size),
+    ...
+    
+    PRIMARY KEY(column_name),
+)
+```
+
 ##예시
 |학번|이름|성별|생년월일|거주지|
 |:-:|:-:|:-:|:-:|:-:|
