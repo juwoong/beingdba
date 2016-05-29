@@ -11,6 +11,4 @@
    * [NOT NULL 조건](not_null_option.md)
    * [PRIMARY KEY 조건](primary_key_option.md)
    * [AUTO_INCREMENT 조건](autoincrement_option.md)
-   * FORIGEN KEY
-       * FOREIGN KEY 조건건
 
