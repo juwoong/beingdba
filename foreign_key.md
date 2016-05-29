@@ -13,7 +13,7 @@ prof. table
 
 ```sql
 CREATE TABLE student (
-    _id INT(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    _id INT(4) NOT NULL PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(32) NOT NULL,
     
 ```
