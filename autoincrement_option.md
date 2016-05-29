@@ -1,2 +1,4 @@
-# AUTO_INCREMENT 구문
+# AUTO_INCREMENT 조건
+
+
 
