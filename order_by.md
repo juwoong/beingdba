@@ -32,3 +32,9 @@ SELECT * FROM student ORDER BY `학번`;
 |3521|신중현|경기도 안산|
 |3537|홍영택|인천광역시|
 
+문자열도 물론 가능한데, 한글은 한가지 작업을 거쳐줘야 한다. 
+
+```sql
+SELECT * FROM student ORDER BY binary(`거주지`)
+```
+**Column** 이름에 binary 함수를 이용해주면, 아래와 같이 ㄱㄴㄷ 순으로 정렬된다. 
