@@ -21,6 +21,7 @@ SELECT 구문과 같이 쓰이 **ORDER BY** 와 **DISTINCT**에 대해 알아보
 SELECT * FROM student ORDER BY `학번`;
 ```
 
+으로 하면 번호 순대로 정렬된다. 
 
 
 
