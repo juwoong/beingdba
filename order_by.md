@@ -47,3 +47,6 @@ SELECT * FROM student ORDER BY binary(`거주지`)
 |3502|김동민|경상남도 창원|
 |3515|박유택|서울특별시|
 |3537|홍영택|인천광역시|
+
+##DISTINCT
+
