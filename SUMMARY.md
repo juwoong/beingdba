@@ -4,7 +4,7 @@
 * [Database 명령어](chapter1.md)
    * [CREATE 구문](create.md)
    * [SELECT 구문](select.md)
-   * ORDER BY
+   * [ORDER BY](order_by.md)
    * [INSERT 구문](insert.md)
    * [UPDATE 구문](update.md)
    * [DELETE 구문](delete.md)
