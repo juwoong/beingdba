@@ -7,6 +7,7 @@
    * [INSERT 구문](insert.md)
    * [UPDATE 구문](update.md)
    * [DELETE 구문](delete.md)
+   * ORDER BY
 * [Database 조건](database_option.md)
    * [NOT NULL 조건](not_null_option.md)
    * [PRIMARY KEY 조건](primary_key_option.md)
