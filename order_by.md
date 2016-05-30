@@ -58,5 +58,10 @@ SELECT DISTINCT column_name FROM table_name;
 
 이렇게 사용하며, 위의 테이블을 이용하여 예시를 보여주겠다. 
 
+```sql
+SELECT DISTINCT `거주지` FROM student;
+```
+
+
 
 
