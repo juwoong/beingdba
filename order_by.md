@@ -62,6 +62,17 @@ SELECT DISTINCT column_name FROM table_name;
 SELECT DISTINCT `거주지` FROM student;
 ```
 
+|거주지|
+|:-:|
+|경기도 광주|
+|경상남도 창원|
+|경기도 안산|
+|서울특별시|
+|인천광역시|
+
+다음과 같이, 원래 `경기도 안산`이 2개였으나 하나로 줄어서 나온 것을 볼 수 있다. 
+
+
 
 
 
